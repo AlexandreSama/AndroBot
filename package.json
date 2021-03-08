@@ -1,0 +1,22 @@
+{
+  "name": "androbot",
+  "version": "0.0.1",
+  "description": "A Sexyest Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreSama/AndroBot.git"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreSama/AndroBot/issues"
+  },
+  "homepage": "https://github.com/AlexandreSama/AndroBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
